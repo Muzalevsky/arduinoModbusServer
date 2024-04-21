@@ -1,2 +1,3 @@
-# arduinoModbusServer
-Arduino Uno modbus TCP server
+# ArduinoModbusServer
+
+Arduino Uno Modbus TCP/IP Server using ethernet shield.
